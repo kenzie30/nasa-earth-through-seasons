@@ -1,4 +1,4 @@
-# nasa-earth-through-seasos
+# nasa-earth-through-seasons
 This program uses NASA's EPIC API to retrieve pictures of Earth from June 21 and December 21, 2025. It compares the average latitude coordinates from both dates to explore how Earth's appearance changes between seasons. 
 
 ## How it works
